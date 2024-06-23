@@ -1,11 +1,8 @@
-package com.example.calendar.model;
+package com.example.calendar.entities;
 
 import jakarta.persistence.*;
 
 import java.time.LocalDateTime;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Optional;
 
 @Entity
 public class Friendship {
